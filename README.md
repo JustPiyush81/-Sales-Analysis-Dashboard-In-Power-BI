@@ -97,20 +97,6 @@ The dashboard is designed to help business stakeholders make data-driven decisio
 - Total Products
 - Returned Orders
 
----
-
-## 📷 Dashboard Preview
-
-> Add dashboard screenshots here.
-
-Example:
-
-images/
-│── Page1.png
-│── Page2.png
-│── Page3.png
-│── Page4.png
-│── Page5.png
 
 ---
 
@@ -175,10 +161,10 @@ The dataset contains the following information:
 **Piyush**
 
 GitHub:
-(Add Your GitHub Profile Link)
+(https://github.com/JustPiyush81/)
 
 LinkedIn:
-(Add Your LinkedIn Profile Link)
+(https://www.linkedin.com/in/piyush-394076298/)
 
 ---
 
